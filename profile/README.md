@@ -8,7 +8,7 @@
   <p>Switchboard is a multi-chain, permissionless oracle protocol allowing developers to fully control how data is relayed on-chain to their smart contracts.</p>
 
   <div>
-    <a href="https://discord.gg/switchboardxyz">
+    <a href="https://discord.gg/TJAv6ZYvPC">
       <img alt="Discord" src="https://img.shields.io/discord/841525135311634443?color=blueviolet&logo=discord&logoColor=white" />
     </a>
     <a href="https://twitter.com/switchboardxyz">
@@ -24,12 +24,12 @@
 **Switchboard is currently deployed on:**
 
 - Solana
+- Sui
+- Aptos
 - CoreDAO
 - Arbitrum
 - Optimism
-- Aptos
-- Sui
-- Starknet (Coming Soon!)
+- Monad
 
 ## Quick Links
 
@@ -40,4 +40,4 @@
 - [git: NEAR SDK](https://github.com/switchboard-xyz/near-sdk): View the NEAR SDK to learn how to create and publish data feeds on NEAR.
 - [git: Aptos SDK](https://github.com/switchboard-xyz/aptos-sdk): View the Aptos SDK to learn how to create and publish data feeds on Aptos.
 - [git: Sui SDK](https://github.com/switchboard-xyz/sui-sdk): View the Sui SDK to learn how to create and publish data feeds on Sui.
-- [git: Starknet SDK (Coming Soon!)](https://github.com/switchboard-xyz/starknet-sdk): View the Starknet SDK to learn how to create and publish data feeds on Starknet.
+
